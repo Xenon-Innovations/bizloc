@@ -1,1 +1,2 @@
-# bizloc
+# BizLoc Powered by SynergyLabs
+

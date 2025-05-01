@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "520117707552",
+    "project_id": "biz-loc-blmajx",
+    "storage_bucket": "biz-loc-blmajx.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:520117707552:android:22db31100304cab271ad45",
+        "android_client_info": {
+          "package_name": "com.mycompany.bizloc"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDp1AssDHtWzM75Ld-GD8752K7yI7pV2B4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
